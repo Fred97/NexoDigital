@@ -3446,7 +3446,6 @@ footer h4::after {
    background-position: center center;
    background-size: 10px 16px;
    color: rgba(255, 255, 255, 0.5);
-   text-align: center;
    text-transform: uppercase;
    border-radius: 50%;
    -webkit-transition: all 0.3s ease-in-out;
